@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "notes": "仅修正已下载数据的文件引用和题型元数据；不修改原始 Excel，不包含题目答案。",
+  "file_aliases": {
+    "58.pdf": "058.pdf",
+    "59.pdf": "059.pdf",
+    "0060.pdf": "060.pdf"
+  },
+  "question_overrides": {
+    "63": {
+      "expected_question": "关键管理人员薪酬本期发生额和上期发生额分别是多少？",
+      "question_type": "extract"
+    }
+  }
+}
