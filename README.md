@@ -1,4 +1,6 @@
-# 天池 532510：Qwen3.8-Flash Baseline
+# Frontier Exploration and Practice of Artificial Intelligence (2026 Autumn)
+
+## Project1: 复杂表格识别与内容理解
 
 使用阿里云百炼 `qwen3.8-flash` 完成复杂表格结构恢复、内容提取和内容推理。
 
